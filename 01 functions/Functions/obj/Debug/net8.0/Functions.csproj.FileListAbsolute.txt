@@ -1,0 +1,15 @@
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.sourcelink.json
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\bin\Debug\net8.0\Functions.exe
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\bin\Debug\net8.0\Functions.deps.json
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\bin\Debug\net8.0\Functions.dll
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\bin\Debug\net8.0\Functions.pdb
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.dll
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\refint\Functions.dll
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.pdb
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\ref\Functions.dll
