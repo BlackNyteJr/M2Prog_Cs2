@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casey Egging\\OneDrive\\Documenten\\ma\\periode 1.2\\Prog\\M2Prog_Cs2\\RijSchool\\Rijschool\\Rijschool.csproj": {}
+    "C:\\Users\\bl4ck\\Source\\Repos\\M2Prog_Cs2\\02 classes\\Rijschool\\Rijschool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casey Egging\\OneDrive\\Documenten\\ma\\periode 1.2\\Prog\\M2Prog_Cs2\\RijSchool\\Rijschool\\Rijschool.csproj": {
+    "C:\\Users\\bl4ck\\Source\\Repos\\M2Prog_Cs2\\02 classes\\Rijschool\\Rijschool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casey Egging\\OneDrive\\Documenten\\ma\\periode 1.2\\Prog\\M2Prog_Cs2\\RijSchool\\Rijschool\\Rijschool.csproj",
+        "projectUniqueName": "C:\\Users\\bl4ck\\Source\\Repos\\M2Prog_Cs2\\02 classes\\Rijschool\\Rijschool.csproj",
         "projectName": "Rijschool",
-        "projectPath": "C:\\Users\\Casey Egging\\OneDrive\\Documenten\\ma\\periode 1.2\\Prog\\M2Prog_Cs2\\RijSchool\\Rijschool\\Rijschool.csproj",
-        "packagesPath": "C:\\Users\\Casey Egging\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casey Egging\\OneDrive\\Documenten\\ma\\periode 1.2\\Prog\\M2Prog_Cs2\\RijSchool\\Rijschool\\obj\\",
+        "projectPath": "C:\\Users\\bl4ck\\Source\\Repos\\M2Prog_Cs2\\02 classes\\Rijschool\\Rijschool.csproj",
+        "packagesPath": "C:\\Users\\bl4ck\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bl4ck\\Source\\Repos\\M2Prog_Cs2\\02 classes\\Rijschool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Casey Egging\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bl4ck\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
